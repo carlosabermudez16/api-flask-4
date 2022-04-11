@@ -14,7 +14,7 @@ app.register_blueprint(tasks_bp)
 """Página principal"""
 @app.route('/')
 def home():
-    return 'subiendo el proyecto usando heroku y conectando con base de datos de heroku!'
+    return 'subiendo el proyecto usando heroku y conectando con base de datos en planetscale'
 
 """Manejanndo rutas no creadas"""
 def not_exist(error):

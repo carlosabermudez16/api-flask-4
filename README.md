@@ -20,7 +20,7 @@ comandos de git:
 --> git add -A
 --> git commit -m "cualquier comentario"
 --> este lo copias del proyecto creado en github:   
-    git remote add origin https://github.com/carlosabermudez16/api_flask_3.git
+    git remote add origin https://github.com/carlosabermudez16/...
 --> git push
     toma el comando que te sale a hacer click:
     git push --set-upstream origin master
@@ -32,4 +32,3 @@ por último actualizas en la web del proyecto creado en github
    una vez conectado buscamos el repositorio y lo cenectamos, después hacemos click
    en deploy branch y click en view.
 
-página --> https://apirest-flask-3.herokuapp.com/
